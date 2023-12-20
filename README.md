@@ -1,1 +1,2 @@
-A clone of amazon.com created using HTML and CSS!
+# Amazon Clone
+### A clone of amazon.com created using HTML and CSS!
